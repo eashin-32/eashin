@@ -18,7 +18,7 @@ I am Eashin Sheikh, My nickname is shadin, currently study in class 11 from [Doh
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vs-code](https://img.shields.io/badge/?style=flat-square&logo=vscode)
+![Vs-code](https://img.shields.io/badge/?style=flat-square&logo=VSCO)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eashin-32&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eashin-32&hide=TeX&layout=compact)
