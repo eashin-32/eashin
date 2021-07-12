@@ -20,7 +20,7 @@ I am Eashin Sheikh, My nickname is shadin, currently study in class 11 from [Doh
 ![](https://img.shields.io/badge/-vs--code-blue?style=flat-square&logo=Visual%20Studio%20Code)
 ![](https://img.shields.io/badge/-Redux-blue?style=flat-square&logo=Redux)
 ![](https://img.shields.io/badge/-Material-UI-blue?style=flat-square&logo=Material-UI)
-![](https://img.shields.io/badge/-Styled-Components-white?style=flat-square&logo=styled-components)
+![](https://img.shields.io/badge/-Styled-Components-blue?style=flat-square&logo=styled-components)
 ![](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass)
 ![](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 
