@@ -4,7 +4,20 @@ I am Eashin Sheikh, My nickname is shadin, currently study in class 11 from [Doh
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eashin_Sheikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eashin-sheikh/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-Rafsan_Eashin-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/eshu_2.0)
-[![Gmail Badge](https://img.shields.io/badge/-eashinahmed0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:eashinahmed0@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:eashinahmed0@gmail.com)
+
+</br>
+</br>
+
+### - Learning :
+- ✨ Typescript, Data Structures & Algorithms
+- ✨ Filmmaking (vloging)
+### - Hobbies : 
+- ✨ Travelling
+- ✨ Watching Movies & Dramas
+- ✨ Reading Historical Fiction Book
+- ✨ Football,Badminton,Cricket (Neighbourhood Professional XD)
+
 
 ## ⚡ Technologies
 
