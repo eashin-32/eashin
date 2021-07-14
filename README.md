@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![cover](https://i.ibb.co/J7V0j9L/Blue-Yellow-and-Red-Technology-Facebook-Cover.png)
-I am Eashin Sheikh, My nickname is shadin, currently study in class 11 from [Dohar Nawabgonj Collage](http://www.nubd.info/college/college.php?code=6405). I am a business studies student & an front-end developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Eashin Sheikh, My nickname is Shadin, currently study in class 11 from [Dohar Nawabgonj Collage](http://www.nubd.info/college/college.php?code=6405). I am a business studies student & an front-end developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eashin_Sheikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eashin-sheikh/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-Rafsan_Eashin-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/eshu_2.0)
